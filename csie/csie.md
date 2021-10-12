@@ -1,2 +1,2 @@
 # NQU CSIE
-* [link:Q&A](https://cycnqu.github.io/csie/Q&A)
+* [Q&A](https://cycnqu.github.io/csie/Q&A)
