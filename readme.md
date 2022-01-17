@@ -1,1 +1,1 @@
-# [link](https://cycnqu.github.io/)
+# [index.md](https://cycnqu.github.io/)

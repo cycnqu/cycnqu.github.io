@@ -1,5 +1,8 @@
-# Welcome!
-## 解決你/妳對金大的疑問！
-### [資工系的部份](https://cycnqu.github.io/csie/csie)
-## 歡迎投稿想提供的資訊！
-* 小編的email: s110810504@student.nqu.edu.tw
+# 陳昱誠在金門大學的一些事
+## [更新一些知識與新聞]()
+## 關於我
+## 我在金大的部分
+## 可以透過以下方式聯絡我！
+* email: s110810504@student.nqu.edu.tw
+* Facebook: 陳昱誠
+* Instagram yucheng1010
