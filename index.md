@@ -2,7 +2,8 @@
 ## [更新一些知識與新聞]()
 ## [關於我](myblog/me.md)
 ## 我在金大的部分
+* [修課狀況](csie/myclass.md)
 ## 可以透過以下方式聯絡我！
-* email: s110810504@student.nqu.edu.tw
+* Email: s110810504@student.nqu.edu.tw
 * Facebook: 陳昱誠
 * Instagram yucheng1010
