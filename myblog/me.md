@@ -1,12 +1,12 @@
 # 大家好
 ## 我的一些基本資料
-![me](img/myphoto.jpg)
 * 姓名:陳昱誠
+* [我的長相](img/myphoto.jpg)
 * 性別: 男
 * 生日: 2000.10.10
 * 電子郵件: rick20001010@gmail.com
 * 目前就讀於國立金門大學資訊工程學系
-* [我的github](https://github.com/cycyucheng1010)
+* Github: cycyucheng1010
 ## 經歷
 ### 學業
 * 完成國立成功大學人類研究倫理審查委員會舉辦之教育訓練課程。
